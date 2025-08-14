@@ -9,3 +9,5 @@ Add a new branch dev2
 add dev brance as new brance
 
 I have add a new branch name dev3
+
+Fotter problem is solved
